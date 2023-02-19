@@ -6,7 +6,7 @@ pipeline {
 		
 		stage('Test') {
 			steps {
-				echo "Hello from github"
+				echo "Hello"
 				
 			}
 		}
